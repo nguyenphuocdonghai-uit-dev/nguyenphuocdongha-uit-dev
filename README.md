@@ -20,11 +20,7 @@ Mình yêu thích lập trình và đang trên con đường học và tìm hi�
 ## 📚 Sở thích
 
 - **Đọc tiểu thuyết & văn học**  
-  Mình yêu thích cả văn học Việt Nam và nước ngoài, đặc biệt là những tác phẩm có chiều sâu về con người, xã hội và triết lý sống như:  
-  *Ngư ông và biển cả*, *Không gia đình*, *Sherlock Holmes*, *Những người khốn khổ*, *Thằng gù nhà thờ Đức Bà*,  
-  các tập truyện ngắn của *O. Henry*, *Bá tước Monte Cristo*, *Nhà giả kim*, *Số đỏ*, *Lão Hạc*, *Chí Phèo*,  
-  *Nỗi buồn chiến tranh*, *Đồi gió hú*, *At the Mountains of Madness*, *The Call of Cthulhu*,  
-  *Tắt đèn*, *Đời thừa*, *Vợ chồng A Phủ*, *Vợ nhặt*.
+  Mình yêu thích cả văn học Việt Nam và nước ngoài, đặc biệt là những tác phẩm có chiều sâu về con người, xã hội và triết lý sống.
 
 - **Viết lách**  
   Mình có viết truyện ngắn và tản văn như một cách rèn luyện tư duy, khả năng diễn đạt và cảm nhận nhân vật.
